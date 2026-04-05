@@ -30,5 +30,5 @@ Architecture
 Purpose
 The goal of this project was to build a **real-world mobile application**, integrating external APIs, handling asynchronous data, and designing a clean user interface.
 
-## 👨‍💻 Notes
+Notes
 This project serves as a final project demonstrating practical iOS development skills, including networking, UI design, and application architecture.
